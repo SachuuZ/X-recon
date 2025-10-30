@@ -84,14 +84,4 @@ All results are saved in a directory named after the domain (`[domain]/`).
 
 ---
 
-## 📝 License
-
-[Add your license here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
-
-## ⚠️ Disclaimer
-
-This tool is intended for authorized security testing only. Always obtain proper permission before scanning any target.
+### Gathering Info step-by-step can be such a drag so i've come up with this solution. If any major update or improvement to be done do reach out
